@@ -1,2 +1,2 @@
 # Regression-Exercises-in-R-
-Foundations of Data Science linear regression exercise, Apr 2017
+Foundations of Data Science regression exercises, Apr 2017
